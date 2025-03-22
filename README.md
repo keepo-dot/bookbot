@@ -7,7 +7,7 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 Takes a .txt file from a user-entered `book_path` and returns a report of word counts, and a reverse sorted Character Count list.
 
-Ex:
+# Example:
 ```============ BOOKBOT ============
 Analyzing book found at books/prideandprejudice.txt...
 ----------- Word Count ----------
