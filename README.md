@@ -5,7 +5,7 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 # Usage:
 `Usage: python3 main.py <path_to_book>`
 
-Takes a .txt file from a user-entered `book_path` and returns a report of word counts, and a reverse sorted Character Count list.
+Takes a .txt file from a user-entered `path_to_book` and returns a report of word counts, and a reverse sorted Character Count list.
 
 # Example:
 ```============ BOOKBOT ============
